@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/industrialio.o := arm-none-linux-gnueabi-ld -EL    -r -o drivers/staging/iio/industrialio.o drivers/staging/iio/industrialio-core.o drivers/staging/iio/industrialio-buffer.o drivers/staging/iio/industrialio-trigger.o 

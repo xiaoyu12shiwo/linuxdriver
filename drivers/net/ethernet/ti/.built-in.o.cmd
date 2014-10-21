@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/ti/built-in.o :=  arm-none-linux-gnueabi-ld -EL    -r -o drivers/net/ethernet/ti/built-in.o drivers/net/ethernet/ti/davinci_emac.o drivers/net/ethernet/ti/davinci_mdio.o drivers/net/ethernet/ti/davinci_cpdma.o 

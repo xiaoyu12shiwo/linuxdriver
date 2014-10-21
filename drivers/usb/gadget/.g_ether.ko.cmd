@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_ether.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/leisure/source/recat-linux/linux-3.3/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_ether.ko drivers/usb/gadget/g_ether.o drivers/usb/gadget/g_ether.mod.o

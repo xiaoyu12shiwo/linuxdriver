@@ -1,0 +1,1 @@
+cmd_drivers/block/loop.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/leisure/source/recat-linux/linux-3.3/scripts/module-common.lds --build-id  -o drivers/block/loop.ko drivers/block/loop.o drivers/block/loop.mod.o

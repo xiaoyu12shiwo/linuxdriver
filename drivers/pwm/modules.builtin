@@ -1,0 +1,2 @@
+kernel/drivers/pwm/pwm.ko
+kernel/drivers/pwm/ecap.ko

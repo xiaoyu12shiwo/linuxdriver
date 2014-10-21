@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/rng-core.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/leisure/source/recat-linux/linux-3.3/scripts/module-common.lds --build-id  -o drivers/char/hw_random/rng-core.ko drivers/char/hw_random/rng-core.o drivers/char/hw_random/rng-core.mod.o

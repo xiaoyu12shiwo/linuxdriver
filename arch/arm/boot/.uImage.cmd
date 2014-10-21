@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/uImage := /bin/bash /home/leisure/source/recat-linux/linux-3.3/scripts/mkuboot.sh -A arm -O linux -T kernel -C none -a 0xc0008000 -e 0xc0008000 -n 'Linux-3.3.0' -d arch/arm/boot/zImage arch/arm/boot/uImage

@@ -1,0 +1,3 @@
+kernel/drivers/net/ethernet/ti/davinci_emac.ko
+kernel/drivers/net/ethernet/ti/davinci_mdio.ko
+kernel/drivers/net/ethernet/ti/davinci_cpdma.ko

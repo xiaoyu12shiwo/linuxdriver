@@ -1,0 +1,3 @@
+kernel/drivers/staging/iio/industrialio.ko
+kernel/drivers/staging/iio/ring_sw.ko
+kernel/drivers/staging/iio/adc/ad7606.ko

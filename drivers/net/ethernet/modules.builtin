@@ -1,0 +1,5 @@
+kernel/drivers/net/ethernet/davicom/dm9000.ko
+kernel/drivers/net/ethernet/smsc/smsc911x.ko
+kernel/drivers/net/ethernet/ti/davinci_emac.ko
+kernel/drivers/net/ethernet/ti/davinci_mdio.ko
+kernel/drivers/net/ethernet/ti/davinci_cpdma.ko

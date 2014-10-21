@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/xtkbd.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/leisure/source/recat-linux/linux-3.3/scripts/module-common.lds --build-id  -o drivers/input/keyboard/xtkbd.ko drivers/input/keyboard/xtkbd.o drivers/input/keyboard/xtkbd.mod.o

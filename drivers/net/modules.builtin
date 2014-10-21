@@ -1,0 +1,14 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/netconsole.ko
+kernel/drivers/net/can/vcan.ko
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/can/mcp251x.ko
+kernel/drivers/net/ethernet/davicom/dm9000.ko
+kernel/drivers/net/ethernet/smsc/smsc911x.ko
+kernel/drivers/net/ethernet/ti/davinci_emac.ko
+kernel/drivers/net/ethernet/ti/davinci_mdio.ko
+kernel/drivers/net/ethernet/ti/davinci_cpdma.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/phy/lxt.ko
+kernel/drivers/net/phy/smsc.ko
+kernel/drivers/net/phy/et1011c.ko

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_mass_storage.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/leisure/source/recat-linux/linux-3.3/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_mass_storage.ko drivers/usb/gadget/g_mass_storage.o drivers/usb/gadget/g_mass_storage.mod.o
